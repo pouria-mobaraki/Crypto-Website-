@@ -11,7 +11,7 @@ function Navbar() {
   return (
     <div className='header'>
       <div className='container'>
-        <h1>پور<span className='primary'>یا</span></h1>
+        <h1>دیجی <span className='primary'>ارز</span></h1>
         <ul className={click ? 'nav-menu active' : 'nav-menu'}>
           <li>
             <a href="">خانه</a>
