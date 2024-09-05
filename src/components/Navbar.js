@@ -14,16 +14,16 @@ function Navbar() {
         <h1>دیجی <span className='primary'>ارز</span></h1>
         <ul className={click ? 'nav-menu active' : 'nav-menu'}>
           <li>
-            <a href="">خانه</a>
+            <a href="">ارتباط با ما</a>
+          </li>
+          <li>
+            <a href=""> درامد</a>
           </li>
           <li>
             <a href="">دسترسی ها</a>
           </li>
           <li>
-            <a href="">درامد</a>
-          </li>
-          <li>
-            <a href="">ارتباط با ما</a>
+            <a href=""> خانه</a>
           </li>
         </ul>
         <div className='btm-group'>

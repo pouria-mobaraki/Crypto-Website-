@@ -24,6 +24,7 @@
 
 .nav-menu {
     display: flex;
+    
 }
 
 .nav-menu li {
@@ -60,6 +61,7 @@
     }
     .nav-menu.active {
         right: 0;
+        direction: ltr;
     }
     .nav-menu li {
         padding: 1rem;
