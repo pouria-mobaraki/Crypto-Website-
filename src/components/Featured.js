@@ -1,8 +1,7 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 import "./Featured.css";
-import BTC from "../assets/btc-img.png";
-import { FiArrowUpRight, FiArrowDownRight, FiArrowDown } from "react-icons/fi";
+import { FiArrowUpRight, FiArrowDown } from "react-icons/fi";
 
 function Featured() {
   const url =
