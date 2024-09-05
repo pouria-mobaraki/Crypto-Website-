@@ -24,6 +24,14 @@
 
 .footer a {
     font-size: 1rem;
+    width: 30%;
+    margin-bottom: 2px;
+    display: inline-block;
+}
+
+.footer a:hover {
+    color: green;
+    transition: .2s ease-in;
 }
 
 .footer .icon {
