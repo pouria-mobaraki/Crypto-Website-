@@ -38,3 +38,21 @@ display: flex;
         margin: 1rem 0;
     }
 }
+@media screen and (max-width:460px) {
+    input {
+      font-size: 12px;
+    }
+    .btn {
+        font-size:12px ;
+        font-weight: normal;
+    }
+  }
+  @media screen and (max-width:410px) {
+    input {
+      font-size: 10px;
+    }
+    .btn {
+        font-size:10px ;
+        font-weight: normal;
+    }
+  }
